@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julio Avila (He/Him)</h1>
 <h3 align="center">I'm just graduate in Physics and Mathematics @ESFM in Mexico CDMX, a self-taught computer science enthusiast, proactive and always looking to learn new things. Passionate about innovation, impact of new technologies and data science.</h3>
-<img align="center" alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<p align="center"> <img alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-avt&label=Profile%20views&color=0e75b6&style=flat" alt="julio-avt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=julio-avt&label=Profile%20views&color=0e75b6&style=flat" alt="julio-avt" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julio-avt" alt="julio-avt" /></a> </p>
 
