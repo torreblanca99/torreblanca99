@@ -12,17 +12,17 @@
 
 - 🌱 I’m currently learning I’m currently learning Data Science and Artificial Inteligence. **Spark, Tensorflow, Pytorch**
 
-- 👯 I’m looking to collaborate on Data Science projects. [----------](-----------)
+- 👯 I’m looking to collaborate on Data Science projects. 
 
-- 🎓 I'm constantly preparing to improve my skills. [-----------](-----------)
+- 🎓 I'm constantly preparing to improve my skills. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/julio-avt](https://github.com/julio-avt)
 
-- 💬 Ask me about anything, I love to talk and meet people. **-**
+- 💬 Ask me about anything, I love to talk and meet people. 
 
 - 📫 How to reach me **julio.avia.torreblanca@gmail.com**
 
-- 📄 Know about my experiences [-----------------](-----------------)
+- 📄 Know about my experiences.
 
 - ⚡ Fun fact **I enjoy drink coffe anytime and anywhere.**
 
