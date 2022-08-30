@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julio Avila (He/Him)</h1>
 <h3 align="center">I'm just graduate in Physics and Mathematics @ESFM in Mexico CDMX, a self-taught computer science enthusiast, proactive and always looking to learn new things. Passionate about innovation, impact of new technologies and data science.</h3>
-<img align="middle" alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julio-avt&label=Profile%20views&color=0e75b6&style=flat" alt="julio-avt" /> </p>
 
