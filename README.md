@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julio Avila (He/Him)</h1>
+<h1 align="center">Hi 👋, I'm Julio Torreblanca (He/Him)</h1>
 <h3 align="center">I'm just graduate in Physics and Mathematics @ESFM in Mexico CDMX, a self-taught computer science enthusiast, proactive and always looking to learn new things. Passionate about innovation, impact of new technologies and data science.</h3>
 <p align="center"> <img alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
 
