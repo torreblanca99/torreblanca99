@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm Julio Torreblanca (He/Him)</h1>
-<h3 align="center">I'm just graduate in Physics and Mathematics @ESFM in Mexico CDMX, a self-taught computer science enthusiast, proactive and always looking to learn new things. Passionate about innovation, impact of new technologies and data science.</h3>
-<p align="center"> <img alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
+
+
+<h1 align="center">Hey there 👋, I'm Julio Torreblanca</h1>
+<h3 align="center"> I 'm Data Scientist with experience in the Fintech industry, building scalable solutions with Machine Learning and AI. Passionate about enhancing customer experience and driving continuous innovation in technological solutions.</h3>
+<p align="center"> 
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=935763628828161255" height='300' width="800" frameborder="0" scrolling="no" ></iframe>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=torreblanca99&label=Profile%20views&color=0e75b6&style=flat" alt="julio-avt" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julio-avt" alt="torreblanca99" /></a> </p>
 
 <h2 align="left">More about me...</h2>
 
-- 🔭 I am currently working on my bachelor's thesis regarding AI implementation in solving partial differential equations. [HeatEquationAI](---------)
+- 🔭 I am currently working in Mercado Libre as a Ssr Data Scientist
 
 - 🌱 I’m currently learning Data Science and Artificial Inteligence. **Spark, Tensorflow, Pytorch**
 
@@ -24,14 +27,11 @@
 
 - 📄 Know about my experiences.
 
-- ⚡ Fun fact **I enjoy drink coffe anytime and anywhere.**
+- ⚡ Fun fact **I REALLY love Techno Music 🎧🎶**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/julioavila99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julioavila99" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/torreblanca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/torreblanca99/" height="30" width="40" /></a>
-<a href="https://instagram.com/julio_torreblanca99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julio_torreblanca99" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
