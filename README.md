@@ -2,9 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Julio Torreblanca</h1>
 <h3 align="center"> I 'm Data Scientist with experience in the Fintech industry, building scalable solutions with Machine Learning and AI. Passionate about enhancing customer experience and driving continuous innovation in technological solutions.</h3>
-<p align="center"> 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=935763628828161255" height='300' width="800" frameborder="0" scrolling="no" ></iframe>
-</p>
+<p align="center"> <img alt="Coding" width="600" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=torreblanca99&label=Profile%20views&color=0e75b6&style=flat" alt="julio-avt" /> </p>
 
